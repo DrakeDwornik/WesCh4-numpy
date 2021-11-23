@@ -36,3 +36,4 @@
 	4. add your folder (`~/virtualenvs`) in the above example
 	5. activate the venv (`source ~/virtualenvs/new/bin/activate`
 	6. quite and restart VS Code (it should now appear in the menu)
+
